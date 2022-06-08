@@ -1,0 +1,39 @@
+body {
+    background-image: url("assets/background.png");
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  img {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+  }
+  
+  h1 {
+    color: hsl(0, 0%, 100%);
+  }
+  
+  p {
+    color: hsl(0, 0%, 85%);
+  }
+  
+  input {
+    box-sizing: border-box;
+  }
+  
+  button{
+    border: 0px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+    background-color: hsl(270, 75%, 50%);
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  
