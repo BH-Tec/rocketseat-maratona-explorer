@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,8 +14,11 @@
         <img src="./assets/cristal-ball.svg" alt="Imagem de uma bola de cristal" />
         <h1>Descubra o seu destino!</h1>
         <p>Clique em fazer pergunta para que seu destino seja revelado.</p>
-        <input type="text" placeholder="Digite a sua pergunta" />
-        <button>Fazer Pergunta</button>
+        <input id="pergunta" type="text" placeholder="Digite a sua pergunta" />
+        <button id="buttonPerguntar"onclick="fazerPergunta()">Fazer Pergunta</button>
+
+        <h3 id="resposta"></h3>
     </div>
   </body>
+  <script src="./script.js"></script>
 </html>

@@ -20,11 +20,11 @@
 
 ### 9 - Jun
 
-19h - Revisão ao vivo
+19h - Revisão ao vivo :white_check_mark:
 
 ### 10 - Jun
 
-08h - O método que te toma a primeira opção no mercado
+08h - O método que te toma a primeira opção no mercado :white_check_mark:
 
 ### 12 - Jun
 
