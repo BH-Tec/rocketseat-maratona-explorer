@@ -1,35 +1,29 @@
-# Evento Maratona Explorer
+<h1 align="center">
+  Qual será o seu destino?
+</h1>
 
-## [Notion](https://efficient-sloth-d85.notion.site/Maratona-Explorer-a90d9b149e2e40c8863d0732007fa05d)
+<p align="center">
+  <a href="https://maratona-explorer-rocketseat.netlify.app/">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### 05 - Jun
+## 🚀 Tecnologias
 
-19h - Abertura da Maratona Explorer ao vivo no YouTube :white_check_mark:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### 06 - Jun
+- HTML
+- CSS
+- JavaScript
+- [Notion](https://efficient-sloth-d85.notion.site/Maratona-Explorer-a90d9b149e2e40c8863d0732007fa05d)
 
-08h - Dominando os fundamentos da programação :white_check_mark:
+## 💻 Projeto
 
-### 07 - Jun
+Evento Maratona Explorer da Rocketseat
 
-19h - Revisão aula 01 ao vivo :white_check_mark:
+## :memo: Licença
 
-### 8 - Jun
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-08h - Prepaaração para uma carreira sólida :white_check_mark:
-
-### 9 - Jun
-
-19h - Revisão ao vivo :white_check_mark:
-
-### 10 - Jun
-
-08h - O método que te toma a primeira opção no mercado :white_check_mark:
-
-### 12 - Jun
-
-19h - O proximo passo
-
-### 13 - Jun
-
-19h - Acelerando a evolução para acessar a primeira vaga
+---
