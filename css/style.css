@@ -74,3 +74,32 @@ button:hover {
   opacity: 0.9;
   margin-bottom: 10px;
 }
+
+/* FOOTER FIXED */
+footer {
+  background-color: var(--CinzaClaro); /* Remover de acordo com a aplicação */
+
+  position: relative;
+  font-size: 1rem;
+  color: var(--Preto);
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  vertical-align: baseline;
+  display: flex;
+  opacity: 0.6;
+}
+
+footer:hover {
+  opacity: 1;
+}
+
+footer a {
+  font-weight: bold;
+  color: var(--Azul3);
+  text-decoration: none;
+  justify-content: center;
+}
