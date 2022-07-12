@@ -77,8 +77,6 @@ button:hover {
 
 /* FOOTER FIXED */
 footer {
-  background-color: var(--CinzaClaro); /* Remover de acordo com a aplicação */
-
   position: relative;
   font-size: 1rem;
   color: var(--Preto);
